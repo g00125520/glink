@@ -1,3 +1,3 @@
-# data-sci
+# glink
 
-use jupyter notebook to research data sci.
+stream programming
