@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.classpath": false,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.configuration.maven.userSettings": "E:\\shumeng\\tools\\apache-maven-3.5.4\\conf\\settings.xml",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    //"terminal.integrated.shell.windows": "null",
+}
